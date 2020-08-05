@@ -2,8 +2,8 @@
 
 I'm a Bioinformatician 🖥️:dna:.
 
-I :heart: working with the [<i class="fab fa-r-project"></i>](https://www.r-project.org) programming language and with the ✨ Shiny framework.
+I :heart: working with the R programming language and with the ✨ Shiny framework.
 
-I like to develop software packages, especially in the Bioconductor project.
+I like to develop software packages, especially for the Bioconductor project & community.
 
-[![Twitter](https://img.shields.io/twitter/url?label=follow&logo=twitter&url=https://twitter.com/FedeBioinfo)](https://twitter.com/FedeBioinfo)
+You can also find me on [![Twitter](https://img.shields.io/twitter/url?label=Twitter&logo=twitter&url=https://twitter.com/FedeBioinfo)](https://twitter.com/FedeBioinfo) and on [![LinkedIn](https://img.shields.io/twitter/url?label=LinkedIn&logo=linkedin&url=http://linkedin.com/in/federico-marini)](http://linkedin.com/in/federico-marini)
